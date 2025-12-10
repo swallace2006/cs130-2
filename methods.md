@@ -20,3 +20,4 @@
 - if data set is too old, information may not be relevant anymore and could lead to false conclusions
 - if money values are an overall average taken from an entire state, a broad range of cities and counties are included which could lead to incorrect interpreations about individual states.
 - the method of how the amount of drivers are counted in each state isn't specified, so it's not definitive if all drivers were accounted for in each state
+- Sources for values aren't included so they could be completely made up by the creator of the data set
