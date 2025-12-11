@@ -14,6 +14,8 @@
 - stats for car insurance premiums are an average from each state
 - losses incurred by insurance companies are an average from each state
 - every driver in each state is accounted for
+- cost of car insurance premiums is yearly
+- undistracted accidents include speeding crashes 
 ## Limitations
 - exact time frame of when data was recorded is unknown
 - if values were not consistently taken from the same tiime frame, this could affect the accuracy of comparisions drawn between states
