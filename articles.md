@@ -1,6 +1,6 @@
 # Safe Driving Saves Money
 ## Introduction
-Have you ever wondered if there is a correlation between the cost of your car insurance premium and the amount of fatal car accidents that happen in your state? Well, there is. States with less occurences of fatal crashes have less costly insurance premiums. Therefore, it is important to drive cautiously and avoid car accidents to ensure the safety of others on the road and to make car insurance preiums more affordable.
+Have you ever wondered if there is a correlation between the cost of your car insurance premium and the amount of fatal car accidents that happen in your state? Well, there is. States with less occurences of fatal crashes have less costly insurance premiums. Therefore, it is important to drive cautiously and avoid car accidents to ensure the safety of others on the road and to make car insurance premiums more affordable.
 ## Cost of Car Insurance Premiums
 ![Bar chart of states with highest and lowest premiums](image.png)
 
@@ -12,7 +12,7 @@ The chart shows the 5 states with the lowest and highest percentage of drivers i
 ## Undistracted Driving Accidents
 ![Bar chart of 5 states with highest and lowest % of undistracted driveres in fatal collisions](undistracteddrive.png)
 
-The chart displays the 5 states with the lowest percentage of undistracted drivers in fatal crashes and the 5 states with the highest percentage of undistracted drivers in fatal crashes. Again, AL, AK, AR, AZ, and CA have the lowest values although all the values in the chart are strikingly similar. These results could include a large range of accidents such as speeding, drivers losing control of their vehicles, and failure to follow traffic laws at intersections. This is likely the reason there is little discrepancy between the results for the top 5 and bottom 5 states. However, it is worth noting that DC appears to be the greatest value shown here and also has the third highest premium rate in the country. Overall, the 5 states with the lowest values are the same as previous analyses which points to the implication that car insurance premiums cost less for states that have less car accidents.
+The chart displays the 5 states with the lowest percentage of undistracted drivers in fatal crashes and the 5 states with the highest percentage of undistracted drivers in fatal crashes. Again, AL, AK, AR, AZ, and CA have the lowest values although all the values in the chart are strikingly similar. These results could include a large range of accidents such as speeding, drivers losing control of their vehicles, and failure to follow traffic laws at intersections. This is likely the reason there is little discrepancy between the results for the top 5 and bottom 5 states. However, it is worth noting that DC appears to be the greatest value shown here and also has the third highest premium rate in the country. Overall, the 5 states with the lowest values are the same as the previous charts which points to the implication that car insurance premiums cost less for states that have less car accidents.
 ## Insurance Losses
 ![Bar chart of 5 states with least and most losses incurred by insurance companies](losses.png)
 
